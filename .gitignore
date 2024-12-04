@@ -1,0 +1,55 @@
+
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb~
+
+# VSCode
+.vscode/
+
+# Anaconda
+.anaconda/
+conda-meta/
+env/
+envs/
+
+# System-related
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDEs and Editors
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.log
+*.bak
+*.swp
+*.tmp
+*.~*
+
+# SQLite Databases
+*.sqlite
+*.db
+
+# Data Files (you can customize based on your dataset)
+*.csv
+*.pkl
+*.tsv
+
+# OneDrive (if you're using OneDrive)
+OneDrive/
+
+# Python virtual environments (if created locally)
+venv/
